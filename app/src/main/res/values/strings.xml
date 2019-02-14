@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="name_button">Handling</string>
+    <string name="result">Result</string>
+    <string name="task">Task</string>
+    <string name="end">End</string>
+    <string name="start">Start</string>
+</resources>
